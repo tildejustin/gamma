@@ -1,12 +1,13 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.fabricmc.example.mixin",
+  "package": "xyz.tildejustin.gamma.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "GameOptions$OptionMixin",
+    "GameOptionsMixin"
   ],
   "injectors": {
     "defaultRequire": 1
