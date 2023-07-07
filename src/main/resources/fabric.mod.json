@@ -14,7 +14,7 @@
   "environment": "*",
   "entrypoints": {
     "mm:early_risers": [
-      "xyz.tildejustin.gamma.GameOptionsOptionMM"
+      "xyz.tildejustin.gamma.EarlyRiser"
     ]
   },
   "mixins": [
