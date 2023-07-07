@@ -28,7 +28,7 @@ public class GameOptionsMixin {
     }
 
     @Mixin(GameOptions.Option.class)
-    public abstract static class GameOptions$OptionMixin {
+    public abstract static class OptionMixin {
         @Mutable
         @Final
         @Shadow
