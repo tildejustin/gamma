@@ -8,8 +8,7 @@
     "tildejustin"
   ],
   "contact": {
-    "homepage": "https://legacyfabric.net/",
-    "sources": "https://github.com/Legacy-Fabric/fabric-example-mod"
+    "sources": "https://github.com/tildejustin/gamma"
   },
   "license": "MIT",
   "environment": "*",
